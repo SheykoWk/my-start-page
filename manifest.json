@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Sh3yk0 Start Page",
+    "version": "1.0.0",
+    "description": "Productivity Start page",
+    "chrome_url_overrides": {
+      "newtab": "index.html"
+    },
+    "icons": {},
+    "content_scripts": [],
+    "devtools_page": "index.html",
+    "web_accessible_resources": []
+  }
